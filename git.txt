@@ -3,3 +3,4 @@ git add названи файла - добавить фаил
 git commit -m "first commit"- подписать изменения
 git remote add origin git@github.com:KGavrish/JS-notes.git- добавить ремоут
 git push -u origin main - запушить на гит
+git branch -m "название-ветки" - создать ветку(название ветки через тире)
