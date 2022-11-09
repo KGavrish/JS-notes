@@ -1,11 +1,12 @@
-SELECT - extracts data from a database
-UPDATE - updates data in a database
-DELETE - deletes data from a database
-INSERT INTO - inserts new data into a database
-CREATE DATABASE - creates a new database
-ALTER DATABASE - modifies a database
-CREATE TABLE - creates a new table
-ALTER TABLE - modifies a table
-DROP TABLE - deletes a table
-CREATE INDEX - creates an index (search key)
-DROP INDEX - deletes an index
+SELECT- извлекает данные из базы данных
+UPDATE- обновляет данные в базе
+DELETE- удаляет данные из базы данных
+INSERT INTO- вставляет новые данные в базу данных
+CREATE DATABASE- создает новую базу данных
+ALTER DATABASE- изменяет базу данных
+CREATE TABLE- создает новую таблицу
+ALTER TABLE- изменяет таблицу
+DROP TABLE- удаляет таблицу
+CREATE INDEX- создает индекс (ключ поиска)
+DROP INDEX- удаляет индекс
+ORDER BY (ASC- по возрастанию ; Desc- по убыванию) слово используется для сортировки набора результатов в порядке возрастания или убывания
